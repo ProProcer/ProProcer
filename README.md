@@ -55,6 +55,7 @@ End-to-end decision-support and anomaly-attribution system for marketplace opera
 - **Delivery:** **Streamlit + Plotly** operations dashboard tracking OTD rate, fulfillment composition, and freight unit economics.
 - **Stack:** PostgreSQL · Python · scikit-learn · Hydra · MLflow · Streamlit
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://olist-ecommerce-analytics-xusvsnyynjlph7vdjlzku4.streamlit.app/)
 [![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ProProcer/olist-ecommerce-analytics)
 
 ### Grab Voice-of-Customer Review Triage
@@ -65,6 +66,7 @@ End-to-end ML + MLOps system that triages Indonesian app-store reviews into oper
 - **Serving:** **FastAPI** microservice (single + batched inference) containerized with **Docker** and deployed to **Google Cloud Run**; experiments tracked in **Weights & Biases**.
 - **Stack:** PyTorch · Hugging Face · FastAPI · Docker · W&B · GCP Cloud Run
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Procer11/grab-voc-triage)
 [![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ProProcer/grab-voc-triage)
 
 ---
